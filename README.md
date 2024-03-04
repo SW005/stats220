@@ -1,1 +1,1 @@
-# stats220
+# Saniru Wick's Stats220 Repository.
