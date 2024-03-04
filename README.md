@@ -2,6 +2,7 @@
 
 This repository is going to contain my work and projects from Stats220, **my first step into R coding!** 🙌.  
 I want to use this repository to showcase the work in this class and show my improvement when I'm doing future projects.
+
 ![](https://i.kym-cdn.com/photos/images/newsfeed/002/735/522/374.gif)
 
 
