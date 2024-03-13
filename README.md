@@ -6,7 +6,7 @@ I want to use this repository to showcase the work in this class and show my imp
 ![](https://i.kym-cdn.com/photos/images/newsfeed/002/735/522/374.gif)
 
 
-*What I aim to achieve through this course:*
+### *What I aim to achieve through this course:*
   1. Getting used to working on GitHub and its community and features.
   2. Get started on a GitHub website, which I plan to use as a portfolio for this class and others.
   3. Develop my R knowledge.
